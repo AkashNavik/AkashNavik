@@ -38,7 +38,15 @@ I was Done at my final year of my Bachelor of Science in Information Technology.
 ## 💼 Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<!--   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> -->
+  <h3>
+  <ol>
+    <li>Android</li>
+    <li>Kotlin</li>
+    <li>Jetpack Compose</li>
+    <li>Core Java</li>
+  </ol>
+  </h3>
 </p>
 
 ## Contact
