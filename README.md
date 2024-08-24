@@ -30,7 +30,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashNavik&repo=BMI-Body-Mass-Calculator-)](https://github.com/AkashNavik/BMI-Body-Mass-Calculator-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashNavik&repo=Rock-Paper-Sciossor-Game)](https://github.com/AkashNavik/Rock-Paper-Sciossor-Game)
 
-<h3>[Foodie (Android Food Ordering Application)]:</h3> 
+<h3>Foodie (Android Food Ordering Application)</h3> 
 I was Done at my final year of my Bachelor of Science in Information Technology. Basically in this project the application designed primarily for use in the food delivery industry. This system will allow hotels and restaurants to increase scope of business by reducing the labour cost involved.
 
 
