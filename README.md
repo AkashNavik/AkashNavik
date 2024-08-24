@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-navik-38007617a/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AkashNavik/AkashNavik/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.jpg" alt="My banner">
   </a>
 </p>
 
